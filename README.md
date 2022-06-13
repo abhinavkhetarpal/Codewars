@@ -1,6 +1,6 @@
 # CodeWars
 
-This is the GitHub repository where I upload the katas I've completed on
+Every day, I complete a coding challenge to grow my skillset. This repository houses the solutions to the challenges I have completed on
 [codewars.com](https://www.codewars.com/).
 
 ![Codewars Logo](https://www.codewars.com/users/malteezy/badges/large)
@@ -9,4 +9,4 @@ This is the GitHub repository where I upload the katas I've completed on
 
 ### JavaScript:
 
-// [Square(n) Sum](JavaScript/squareNSum.js)
+[Square(n) Sum](JavaScript/squareNSum.js)
