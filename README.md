@@ -9,4 +9,4 @@ This is the GitHub repository where I upload the katas I've completed on
 
 ### JavaScript:
 
-// * [RegEx - Check if divisible by 0b111 (7)](js/regex_binary_divisible.js)
+//*[RegEx - Check if divisible by 0b111 (7)](js/regex_binary_divisible.js)
