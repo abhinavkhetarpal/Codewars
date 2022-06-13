@@ -3,7 +3,7 @@
 Every day, I complete a coding challenge to grow my skillset. This repository houses the solutions to the challenges I have completed on
 [codewars.com](https://www.codewars.com/).
 
-![Codewars Logo](https://www.codewars.com/users/malteezy/badges/large)
+![Codewars Logo](https://www.codewars.com/users/malteezy/badges/large](https://www.codewars.com/users/abhinavkhetarpal/badges/large)
 
 ## List of Challenges
 
