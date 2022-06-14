@@ -10,3 +10,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 ### JavaScript:
 
 [Square(n) Sum](JavaScript/squareNSum.js)
+[Split And Merge](JavaScript/splitAndMerge.js)
