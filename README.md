@@ -13,3 +13,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Split And Merge](JavaScript/splitAndMerge.js)
 - [First To Last](JavaScript/firstToLast.js)
 - [Sum Of Positive Numbers](JavaScript/sumPositiveNums.js)
+- [RGB to Hex](JavaScript/colorOf.js)
