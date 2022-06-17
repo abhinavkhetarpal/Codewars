@@ -17,3 +17,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Reduce](JavaScript/arrayCardio.js)
 - [Five Lines](JavaScript/fiveLine.js)
 - [Merge Sorted Arrays](JavaScript/mergeArrays.js)
+- [Mathematical Operations](JavaScript/basicOp.js)
