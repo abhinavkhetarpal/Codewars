@@ -18,3 +18,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Five Lines](JavaScript/fiveLine.js)
 - [Merge Sorted Arrays](JavaScript/mergeArrays.js)
 - [Mathematical Operations](JavaScript/basicOp.js)
+- [Object Oriented Piracy](JavaScript/ship.js)
