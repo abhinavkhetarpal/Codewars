@@ -20,3 +20,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Mathematical Operations](JavaScript/basicOp.js)
 - [Object Oriented Piracy](JavaScript/ship.js)
 - [Convert Name to Initials](JavaScript/abbrevName.js)
+- [Opposites Attract](JavaScript/lovefunc.js)
