@@ -21,3 +21,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Object Oriented Piracy](JavaScript/ship.js)
 - [Convert Name to Initials](JavaScript/abbrevName.js)
 - [Opposites Attract](JavaScript/lovefunc.js)
+- [Clock](JavaScript/past.js)
