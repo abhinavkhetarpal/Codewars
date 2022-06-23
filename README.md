@@ -25,3 +25,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Make UpperCase](JavaScript/makeUpperCase.js)
 - [Object to String](JavaScript/animal.js)
 - [Stopwatch](JavaScript/stopwatch.js)
+- [Sum of Second Highest/Lowest](JavaScript/customSum.js)
