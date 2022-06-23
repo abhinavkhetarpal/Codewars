@@ -23,3 +23,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Opposites Attract](JavaScript/lovefunc.js)
 - [Clock](JavaScript/past.js)
 - [Make UpperCase](JavaScript/makeUpperCase.js)
+- [Object to String](JavaScript/animal.js)
