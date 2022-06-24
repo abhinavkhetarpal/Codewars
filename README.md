@@ -27,3 +27,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Stopwatch](JavaScript/stopwatch.js)
 - [Sum of Second Highest/Lowest](JavaScript/customSum.js)
 - [Boulevards in Paris](JavaScript/boulevards.js)
+- [Exclamation Marks](JavaScript/remove.js)
