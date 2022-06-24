@@ -26,3 +26,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Object to String](JavaScript/animal.js)
 - [Stopwatch](JavaScript/stopwatch.js)
 - [Sum of Second Highest/Lowest](JavaScript/customSum.js)
+- [Boulevards in Paris](JavaScript/boulevards.js)
