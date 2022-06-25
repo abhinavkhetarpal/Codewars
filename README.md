@@ -30,3 +30,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Exclamation Mark](JavaScript/remove.js)
 - [School Paperwork](JavaScript/paperwork.js)
 - [BMI Calculator](JavaScript/bmi.js)
+- [Filter Out The Geese](JavaScript/gooseFilter.js)
