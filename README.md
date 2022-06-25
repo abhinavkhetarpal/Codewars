@@ -29,3 +29,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Boulevards in Paris](JavaScript/boulevards.js)
 - [Exclamation Mark](JavaScript/remove.js)
 - [School Paperwork](JavaScript/paperwork.js)
+- [BMI Calculator](JavaScript/bmi.js)
