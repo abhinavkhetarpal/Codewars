@@ -31,3 +31,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [School Paperwork](JavaScript/paperwork.js)
 - [BMI Calculator](JavaScript/bmi.js)
 - [Filter Out The Geese](JavaScript/gooseFilter.js)
+- [Reversed Sequence](JavaScript/reverseSeq.js)
