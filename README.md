@@ -32,3 +32,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [BMI Calculator](JavaScript/bmi.js)
 - [Filter Out The Geese](JavaScript/gooseFilter.js)
 - [Reversed Sequence](JavaScript/reverseSeq.js)
+- [Digitize](JavaScript/digitize.js)
