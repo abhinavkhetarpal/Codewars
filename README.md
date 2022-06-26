@@ -34,3 +34,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Reversed Sequence](JavaScript/reverseSeq.js)
 - [Digitize](JavaScript/digitize.js)
 - [Array to CSV](JavaScript/toCsvText.js)
+- [Get Number From String](JavaScript/getNumberFromString.js)
