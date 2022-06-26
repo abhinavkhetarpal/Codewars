@@ -33,3 +33,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Filter Out The Geese](JavaScript/gooseFilter.js)
 - [Reversed Sequence](JavaScript/reverseSeq.js)
 - [Digitize](JavaScript/digitize.js)
+- [Array to CSV](JavaScript/toCsvText.js)
