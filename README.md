@@ -37,3 +37,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Get Number From String](JavaScript/getNumberFromString.js)
 - [Exclamation Mark #2](JavaScript/remove2.js)
 - [Hero vs Dragon](JavaScript/hero.js)
+- [ES6 String Addition](JavaScript/joinStrings.js)
