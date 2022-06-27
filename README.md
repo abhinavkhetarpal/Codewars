@@ -38,3 +38,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Exclamation Mark #2](JavaScript/remove2.js)
 - [Hero vs Dragon](JavaScript/hero.js)
 - [ES6 String Addition](JavaScript/joinStrings.js)
+- [Palindrome Strings](JavaScript/isPalindrome.js)
