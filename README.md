@@ -42,3 +42,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Array of Even Numbers](JavaScript/evenNums.js)
 - [Sort Alphabetically](JavaScript/sortLastName.js)
 - [Century From Year](JavaScript/century.js)
+- [Simple Multiplication](JavaScript/simpleMultiplication.js)
