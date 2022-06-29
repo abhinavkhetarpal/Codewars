@@ -43,3 +43,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sort Alphabetically](JavaScript/sortLastName.js)
 - [Century From Year](JavaScript/century.js)
 - [Simple Multiplication](JavaScript/simpleMultiplication.js)
+- [What Number Is It](JavaScript/whatNumberIsIt.js)
