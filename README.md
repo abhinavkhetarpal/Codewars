@@ -45,3 +45,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Simple Multiplication](JavaScript/simpleMultiplication.js)
 - [What Number Is It](JavaScript/whatNumberIsIt.js)
 - [Better Than Average](JavaScript/betterThanAverage.js)
+- [Multiply Two](JavaScript/multiply.js)
