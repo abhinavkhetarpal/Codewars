@@ -47,3 +47,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Better Than Average](JavaScript/betterThanAverage.js)
 - [Multiply Two](JavaScript/multiply.js)
 - [Transportation On Vacation](JavaScript/rentalCarCost.js)
+- [Count Sheep](JavaScript/countSheep.js)
