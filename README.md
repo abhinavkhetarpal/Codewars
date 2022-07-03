@@ -46,3 +46,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [What Number Is It](JavaScript/whatNumberIsIt.js)
 - [Better Than Average](JavaScript/betterThanAverage.js)
 - [Multiply Two](JavaScript/multiply.js)
+- [Transportation On Vacation](JavaScript/rentalCarCost.js)
