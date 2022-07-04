@@ -50,3 +50,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Count Sheep](JavaScript/countSheep.js)
 - [Personalized Message](JavaScript/greet.js)
 - [Rock Paper Scissors!](JavaScript/rps.js)
+- [Area Or Perimeter](JavaScript/areaOrPerimeter.js)
