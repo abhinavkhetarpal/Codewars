@@ -52,3 +52,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Rock Paper Scissors!](JavaScript/rps.js)
 - [Area Or Perimeter](JavaScript/areaOrPerimeter.js)
 - [Third Angle Of A Triangle](JavaScript/otherAngle.js)
+- [Quarter Of The Year](JavaScript/quarterOf.js)
