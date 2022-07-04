@@ -51,3 +51,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Personalized Message](JavaScript/greet.js)
 - [Rock Paper Scissors!](JavaScript/rps.js)
 - [Area Or Perimeter](JavaScript/areaOrPerimeter.js)
+- [Third Angle Of A Triangle](JavaScript/otherAngle.js)
