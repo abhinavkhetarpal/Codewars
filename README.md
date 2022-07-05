@@ -58,3 +58,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Grade Book](JavaScript/getGrade.js)
 - [Double Char](JavaScript/doubleChar.js)
 - [Cockroach](JavaScript/cockroachSpeed.js)
+- [Messi Goals](JavaScript/goals.js)
