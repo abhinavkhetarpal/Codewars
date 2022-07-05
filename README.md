@@ -54,3 +54,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Third Angle Of A Triangle](JavaScript/otherAngle.js)
 - [Quarter Of The Year](JavaScript/quarterOf.js)
 - [Remove Exclamation Marks](JavaScript/removeExclamationMarks.js)
+- [Traffic Light](JavaScript/updateLight.js)
