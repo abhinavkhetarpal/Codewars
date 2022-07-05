@@ -59,3 +59,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Double Char](JavaScript/doubleChar.js)
 - [Cockroach](JavaScript/cockroachSpeed.js)
 - [Messi Goals](JavaScript/goals.js)
+- [Parse Int From Char](JavaScript/getAge.js)
