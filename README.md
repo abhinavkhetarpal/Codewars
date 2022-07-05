@@ -56,3 +56,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Remove Exclamation Marks](JavaScript/removeExclamationMarks.js)
 - [Traffic Light](JavaScript/updateLight.js)
 - [Grade Book](JavaScript/getGrade.js)
+- [Double Char](JavaScript/doubleChar.js)
