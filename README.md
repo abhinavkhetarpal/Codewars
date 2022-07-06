@@ -62,3 +62,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Parse Int From Char](JavaScript/getAge.js)
 - [Switch It Up](JavaScript/switchItUp.js)
 - [Will There Be Enough Space?](JavaScript/enough.js)
+- [Squaring An Argument](JavaScript/square.js)
