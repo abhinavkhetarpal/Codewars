@@ -63,3 +63,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Switch It Up](JavaScript/switchItUp.js)
 - [Will There Be Enough Space?](JavaScript/enough.js)
 - [Squaring An Argument](JavaScript/square.js)
+- [Keep Up The Hoop](JavaScript/hoopCount.js)
