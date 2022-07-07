@@ -64,3 +64,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Will There Be Enough Space?](JavaScript/enough.js)
 - [Squaring An Argument](JavaScript/square.js)
 - [Keep Up The Hoop](JavaScript/hoopCount.js)
+- [Is This Number A Prime?](JavaScript/isPrime.js)
