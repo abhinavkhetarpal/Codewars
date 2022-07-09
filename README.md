@@ -66,3 +66,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Keep Up The Hoop](JavaScript/hoopCount.js)
 - [Is This Number A Prime?](JavaScript/isPrime.js)
 - [Can We Divide It?](JavaScript/isDivideBy.js)
+- [Student's Final Grade](JavaScript/finalGrade.js)
