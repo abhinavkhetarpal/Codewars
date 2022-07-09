@@ -65,3 +65,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Squaring An Argument](JavaScript/square.js)
 - [Keep Up The Hoop](JavaScript/hoopCount.js)
 - [Is This Number A Prime?](JavaScript/isPrime.js)
+- [Can We Divide It?](JavaScript/isDivideBy.js)
