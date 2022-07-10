@@ -67,3 +67,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Is This Number A Prime?](JavaScript/isPrime.js)
 - [Can We Divide It?](JavaScript/isDivideBy.js)
 - [Student's Final Grade](JavaScript/finalGrade.js)
+- [Sum Without Highest And Lowest Number](JavaScript/sumArray.js)
