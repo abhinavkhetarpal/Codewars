@@ -72,3 +72,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Find Maximum And Minimum](JavaScript/minmax.js)
 - [Difference Of Volume Of Cuboids](JavaScript/find_difference.js)
 - [Is It Even?](JavaScript/testEven.js)
+- [Terminal Game Move Function](JavaScript/move.js)
