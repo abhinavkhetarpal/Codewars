@@ -76,3 +76,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Welcome](JavaScript/greetLanguage.js)
 - [All Star Code Challenge #18](JavaScript/strCount.js)
 - [N-th Power](JavaScript/index.js)
+- [Drink About](JavaScript/peopleWithAgeDrink.js)
