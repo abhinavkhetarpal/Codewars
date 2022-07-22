@@ -79,3 +79,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Drink About](JavaScript/peopleWithAgeDrink.js)
 - [Regular Ball Super Ball](JavaScript/Ball.js)
 - [What's The Real Floor?](JavaScript/getRealFloor.js)
+- [Plural](JavaScript/plural.js)
