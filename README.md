@@ -82,3 +82,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Plural](JavaScript/plural.js)
 - [How many lightsabers do you own?](JavaScript/howManyLightsabersDoYouOwn.js)
 - [Hello, Name or World!](JavaScript/hello.js)
+- [Get Character From ASCII](JavaScript/getChar.js)
