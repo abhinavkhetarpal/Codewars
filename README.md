@@ -10,6 +10,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 ### JavaScript:
 
 - [Vowel Count](JavaScript/getCount.js)
+- [Methods Of Number Object](JavaScript/howManySmaller.js)
 - [Square(n) Sum](JavaScript/squareNSum.js)
 - [Split And Merge](JavaScript/splitAndMerge.js)
 - [First To Last](JavaScript/firstToLast.js)
