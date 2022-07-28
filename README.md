@@ -86,3 +86,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Hello, Name or World!](JavaScript/hello.js)
 - [Get Character From ASCII](JavaScript/getChar.js)
 - [Find Multiples Of A Number](JavaScript/findMultiple.js)
+- [Basic Function Fixer](JavaScript/addFive.js)
