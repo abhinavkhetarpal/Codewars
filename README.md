@@ -88,3 +88,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Find Multiples Of A Number](JavaScript/findMultiple.js)
 - [Basic Function Fixer](JavaScript/addFive.js)
 - [Take The First N Elements](JavaScript/take.js)
+- [Hex to Decimal](JavaScript/hexToDec.js)
