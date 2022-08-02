@@ -90,3 +90,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Take The First N Elements](JavaScript/take.js)
 - [Hex to Decimal](JavaScript/hexToDec.js)
 - [Multiplication Table For A Number](JavaScript/multiTable.js)
+- [Function Syntax Debugging](JavaScript/main.js)
