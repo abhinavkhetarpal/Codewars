@@ -91,3 +91,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Hex to Decimal](JavaScript/hexToDec.js)
 - [Multiplication Table For A Number](JavaScript/multiTable.js)
 - [Function Syntax Debugging](JavaScript/main.js)
+- [Remove Duplicates From List](JavaScript/distinct.js)
