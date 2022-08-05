@@ -94,3 +94,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Remove Duplicates From List](JavaScript/distinct.js)
 - [Sleigh Authentication](JavaScript/Sleigh.js)
 - [Super Duper Easy](JavaScript/problem.js)
+- [No Zeros For Heroes](JavaScript/noBoringZeros.js)
