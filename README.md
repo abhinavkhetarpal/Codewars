@@ -93,3 +93,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Function Syntax Debugging](JavaScript/main.js)
 - [Remove Duplicates From List](JavaScript/distinct.js)
 - [Sleigh Authentication](JavaScript/Sleigh.js)
+- [Super Duper Easy](JavaScript/problem.js)
