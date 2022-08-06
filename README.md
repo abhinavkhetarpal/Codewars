@@ -95,3 +95,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sleigh Authentication](JavaScript/Sleigh.js)
 - [Super Duper Easy](JavaScript/problem.js)
 - [No Zeros For Heroes](JavaScript/noBoringZeros.js)
+- [Exclamation Mark Series #11](JavaScript/replace.js)
