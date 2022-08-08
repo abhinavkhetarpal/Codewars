@@ -96,3 +96,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Super Duper Easy](JavaScript/problem.js)
 - [No Zeros For Heroes](JavaScript/noBoringZeros.js)
 - [Exclamation Mark Series #11](JavaScript/replace.js)
+- [Terminal Game Combat Function](JavaScript/combat.js)
