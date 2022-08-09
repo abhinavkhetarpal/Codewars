@@ -98,3 +98,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Exclamation Mark Series #11](JavaScript/replace.js)
 - [Terminal Game Combat Function](JavaScript/combat.js)
 - [Variable Assignment Debug](JavaScript/debugging.js)
+- [Pre-FizzBuzz Workout #1](JavaScript/preFizz.js)
