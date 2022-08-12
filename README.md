@@ -101,3 +101,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Pre-FizzBuzz Workout #1](JavaScript/preFizz.js)
 - [USD => CNY](JavaScript/usdcny.js)
 - [Determine The Offspring Sex](JavaScript/chromosomeCheck.js)
+- [Type Of Sum](JavaScript/typeOfSum.js)
