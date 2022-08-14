@@ -103,3 +103,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Determine The Offspring Sex](JavaScript/chromosomeCheck.js)
 - [Type Of Sum](JavaScript/typeOfSum.js)
 - [How Old Will I Be In 2099?](JavaScript/calculateAge.js)
+- [Take The Derivative](JavaScript/derive.js)
