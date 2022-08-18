@@ -108,3 +108,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Find The Position!](JavaScript/position.js)
 - [Formatting Decimal Places #0](JavaScript/twoDecimalPlaces.js)
 - [Reverse List Order](JavaScript/reverseList.js)
+- [Reduce But Grow](JavaScript/grow.js)
