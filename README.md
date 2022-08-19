@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Get The Middle Character](JavaScript/getMiddle.js)
 - [Vowel Count](JavaScript/getCount.js)
 - [Highest and Lowest](JavaScript/highAndLow.js)
 - [Methods Of Number Object](JavaScript/howManySmaller.js)
