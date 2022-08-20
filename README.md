@@ -111,3 +111,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Reverse List Order](JavaScript/reverseList.js)
 - [Reduce But Grow](JavaScript/grow.js)
 - [Object Syntax Debug](JavaScript/rooms.js)
+- [Does My List Include This?](JavaScript/include.js)
