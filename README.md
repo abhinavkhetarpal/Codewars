@@ -114,3 +114,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Does My List Include This?](JavaScript/include.js)
 - [Do You Speak English?](JavaScript/spEng.js)
 - [Fundamentals: Return](JavaScript/fundamentals.js)
+- [Sum Of Multiples](JavaScript/sumMul.js)
