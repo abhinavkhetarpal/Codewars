@@ -113,3 +113,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Object Syntax Debug](JavaScript/rooms.js)
 - [Does My List Include This?](JavaScript/include.js)
 - [Do You Speak English?](JavaScript/spEng.js)
+- [Fundamentals: Return](JavaScript/fundamentals.js)
