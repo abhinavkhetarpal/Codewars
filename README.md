@@ -116,3 +116,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Fundamentals: Return](JavaScript/fundamentals.js)
 - [Sum Of Multiples](JavaScript/sumMul.js)
 - [Mr. Freeze](JavaScript/freeze.js)
+- [Return The Day](JavaScript/whatday.js)
