@@ -117,3 +117,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sum Of Multiples](JavaScript/sumMul.js)
 - [Mr. Freeze](JavaScript/freeze.js)
 - [Return The Day](JavaScript/whatday.js)
+- [Exclamation Mark Series #6](JavaScript/removeN.js)
