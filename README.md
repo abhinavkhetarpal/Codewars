@@ -118,3 +118,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Mr. Freeze](JavaScript/freeze.js)
 - [Return The Day](JavaScript/whatday.js)
 - [Exclamation Mark Series #6](JavaScript/removeN.js)
+- [Define A Card Suit](JavaScript/defineSuit.js)
