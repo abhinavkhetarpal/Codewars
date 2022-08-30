@@ -119,3 +119,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Return The Day](JavaScript/whatday.js)
 - [Exclamation Mark Series #6](JavaScript/removeN.js)
 - [Define A Card Suit](JavaScript/defineSuit.js)
+- [Leonardo DiCaprio And Oscars](JavaScript/oscar.js)
