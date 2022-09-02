@@ -121,3 +121,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Define A Card Suit](JavaScript/defineSuit.js)
 - [Leonardo DiCaprio And Oscars](JavaScript/oscar.js)
 - [Tip Calculator](JavaScript/calculateTip.js)
+- [Are Arrow Functions Odd?](JavaScript/odds.js)
