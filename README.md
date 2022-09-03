@@ -123,3 +123,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Tip Calculator](JavaScript/calculateTip.js)
 - [Are Arrow Functions Odd?](JavaScript/odds.js)
 - [Parse Float](JavaScript/parseF.js)
+- [Get ASCII Value Of Character](JavaScript/getASCII.js)
