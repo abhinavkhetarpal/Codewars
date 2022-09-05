@@ -125,3 +125,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Parse Float](JavaScript/parseF.js)
 - [Get ASCII Value Of Character](JavaScript/getASCII.js)
 - [Ensure Question](JavaScript/ensureQuestion.js)
+- [You Can't Code Under Pressure #1](JavaScript/doubleInteger.js)
