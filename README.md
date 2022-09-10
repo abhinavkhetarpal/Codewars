@@ -129,3 +129,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Simple Calculator](JavaScript/calculator.js)
 - [Cat Years, Dog Years](JavaScript/humanYearsCatYearsDogYears.js)
 - [Check Same Case](JavaScript/sameCase.js)
+- [Find Out Whether The Shape Is A Cube](JavaScript/cubeChecker.js)
