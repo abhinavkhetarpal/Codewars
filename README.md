@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Exes and Ohs](JavaScript/XO.js)
 - [Descending Order](JavaScript/descendingOrder.js)
 - [Get The Middle Character](JavaScript/getMiddle.js)
 - [Vowel Count](JavaScript/getCount.js)
