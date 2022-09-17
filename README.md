@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Printer Errors](JavaScript/printerError.js)
 - [Categorize New Member](JavaScript/openOrSenior.js)
 - [Growth Of A Population](JavaScript/nbYear.js)
 - [Shortest Word](JavaScript/findShort.js)
