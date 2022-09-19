@@ -138,3 +138,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Find Out Whether The Shape Is A Cube](JavaScript/cubeChecker.js)
 - [Friend Or Foe](JavaScript/friend.js)
 - [Two To One](JavaScript/longest.js)
+- [Number Of People In The Bus](JavaScript/busStops.js)
