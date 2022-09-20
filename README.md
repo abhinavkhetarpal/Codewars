@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Sum Of The First Nth Term Of Series](JavaScript/SeriesSum.js)
 - [Printer Errors](JavaScript/printerError.js)
 - [Categorize New Member](JavaScript/openOrSenior.js)
 - [Growth Of A Population](JavaScript/nbYear.js)
