@@ -141,3 +141,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Friend Or Foe](JavaScript/friend.js)
 - [Two To One](JavaScript/longest.js)
 - [Number Of People In The Bus](JavaScript/busStops.js)
+- [Money, Money, Money](JavaScript/calculateYears.js)
