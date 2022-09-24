@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Reverse Words](JavaScript/reverseWords.js)
 - [Sort Numbers](JavaScript/solution.js)
 - [Sum Of The First Nth Term Of Series](JavaScript/SeriesSum.js)
 - [Printer Errors](JavaScript/printerError.js)
