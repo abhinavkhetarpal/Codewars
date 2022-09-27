@@ -92,6 +92,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [N-th Power](JavaScript/index.js)
 - [Drink About](JavaScript/peopleWithAgeDrink.js)
 - [Regular Ball Super Ball](JavaScript/Ball.js)
+- [Lost Without A Map](JavaScript/maps.js)
 - [What's The Real Floor?](JavaScript/getRealFloor.js)
 - [Plural](JavaScript/plural.js)
 - [How many lightsabers do you own?](JavaScript/howManyLightsabersDoYouOwn.js)
