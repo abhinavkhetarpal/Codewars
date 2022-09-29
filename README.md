@@ -63,6 +63,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Multiply Two](JavaScript/multiply.js)
 - [Transportation On Vacation](JavaScript/rentalCarCost.js)
 - [Count Sheep](JavaScript/countSheep.js)
+- [Count Of Positives/Sum Of Negatives](JavaScript/countPositivesSumNegatives.js)
 - [Personalized Message](JavaScript/greet.js)
 - [Rock Paper Scissors!](JavaScript/rps.js)
 - [Area Or Perimeter](JavaScript/areaOrPerimeter.js)
