@@ -121,6 +121,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [How Old Will I Be In 2099?](JavaScript/calculateAge.js)
 - [Take The Derivative](JavaScript/derive.js)
 - [Find The Position!](JavaScript/position.js)
+- [Calculate Average](JavaScript/find_average.js)
 - [Formatting Decimal Places #0](JavaScript/twoDecimalPlaces.js)
 - [Reverse List Order](JavaScript/reverseList.js)
 - [Reduce But Grow](JavaScript/grow.js)
