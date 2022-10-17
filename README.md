@@ -43,6 +43,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Invert Values](JavaScript/invert.js)
 - [Sum of Second Highest/Lowest](JavaScript/customSum.js)
 - [Boulevards in Paris](JavaScript/boulevards.js)
+- [Count The Monkeys](JavaScript/monkeyCount.js)
 - [Exclamation Mark](JavaScript/remove.js)
 - [School Paperwork](JavaScript/paperwork.js)
 - [BMI Calculator](JavaScript/bmi.js)
