@@ -10,6 +10,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 ### JavaScript:
 
 - [Count The Digit](JavaScript/nbDig.js)
+- [Disemvowel Trolls](JavaScript/disemvowel.js)
 - [Maximum Multiple](JavaScript/maxMultiple.js)
 - [Reverse Words](JavaScript/reverseWords.js)
 - [Sort Numbers](JavaScript/solution.js)
