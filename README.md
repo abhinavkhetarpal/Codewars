@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [You're A Square](JavaScript/isSquare.js)
 - [Square Every Digit](JavaScript/squareDigits.js)
 - [Count The Digit](JavaScript/nbDig.js)
 - [Disemvowel Trolls](JavaScript/disemvowel.js)
