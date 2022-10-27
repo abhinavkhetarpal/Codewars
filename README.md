@@ -27,6 +27,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Vowel Count](JavaScript/getCount.js)
 - [Highest and Lowest](JavaScript/highAndLow.js)
 - [Count By X](JavaScript/countBy.js)
+- [Twice As Old](JavaScript/twiceAsOld.js)
 - [Methods Of Number Object](JavaScript/howManySmaller.js)
 - [Square(n) Sum](JavaScript/squareNSum.js)
 - [Split And Merge](JavaScript/splitAndMerge.js)
