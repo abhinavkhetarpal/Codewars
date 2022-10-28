@@ -65,6 +65,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [ES6 String Addition](JavaScript/joinStrings.js)
 - [A Needle In The Haystack](JavaScript/findNeedle.js)
 - [Palindrome Strings](JavaScript/isPalindrome.js)
+- [Removing Elements](JavaScript/removeEveryOther.js)
 - [Will You Make It?](JavaScript/zeroFuel.js)
 - [Array of Even Numbers](JavaScript/evenNums.js)
 - [Sort Alphabetically](JavaScript/sortLastName.js)
