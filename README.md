@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Isograms](JavaScript/isIsogram.js)
 - [List Filtering](JavaScript/filter_list.js)
 - [Maximum Length Difference](JavaScript/mxdiflg.js)
 - [You're A Square](JavaScript/isSquare.js)
