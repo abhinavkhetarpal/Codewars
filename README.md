@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Mumbling](JavaScript/accum.js)
 - [Isograms](JavaScript/isIsogram.js)
 - [List Filtering](JavaScript/filter_list.js)
 - [Maximum Length Difference](JavaScript/mxdiflg.js)
