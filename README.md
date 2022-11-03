@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Sum Of Two Lowest Positive Integers](JavaScript/sumTwoSmallestNumbers.js)
 - [Complementary DNA](JavaScript/DNAStrand.js)
 - [Mumbling](JavaScript/accum.js)
 - [Isograms](JavaScript/isIsogram.js)
