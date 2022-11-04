@@ -18,7 +18,7 @@ function getSum( a,b )
   }
 }
 
-// Refactored
+//  Refactored
 
 function GetSum( a,b )
 {
