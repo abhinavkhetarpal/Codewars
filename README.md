@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [String Ends With?](JavaScript/solution2.js)
 - [Series #3 Sum Of Numbers](JavaScript/GetSum.js)
 - [Sum Of Two Lowest Positive Integers](JavaScript/sumTwoSmallestNumbers.js)
 - [Complementary DNA](JavaScript/DNAStrand.js)
