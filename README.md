@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Binary Addition](JavaScript/addBinary.js)
 - [Is This A Triangle?](JavaScript/isTriangle.js)
 - [String Ends With?](JavaScript/solution2.js)
 - [Series #3 Sum Of Numbers](JavaScript/GetSum.js)
