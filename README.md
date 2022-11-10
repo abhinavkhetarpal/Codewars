@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Find The Next Perfect Square!](JavaScript/findNextSquare.js)
 - [Sum Of Odd Numbers](JavaScript/rowSumOddNumbers.js)
 - [Binary Addition](JavaScript/addBinary.js)
 - [Is This A Triangle?](JavaScript/isTriangle.js)
