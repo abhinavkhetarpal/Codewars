@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Odd Or Even?](JavaScript/oddOrEven.js)
 - [Ones and Zeros](JavaScript/binaryArrayToNumber.js)
 - [Jaden Casing Strings](JavaScript/toJadenCase.js)
 - [Find The Next Perfect Square!](JavaScript/findNextSquare.js)
