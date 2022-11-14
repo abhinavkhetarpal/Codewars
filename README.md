@@ -178,4 +178,5 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Two To One](JavaScript/longest.js)
 - [Number Of People In The Bus](JavaScript/busStops.js)
 - [Money, Money, Money](JavaScript/calculateYears.js)
+- [DNA to RNA Conversion](JavaScript/DNAtoRNA.js)
 - [Summing A Number's Digits](JavaScript/sumDigits.js)
