@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Remove The Minimum](JavaScript/removeSmallest.js)
 - [The Highest Profit Wins](JavaScript/minMax2.js)
 - [Odd Or Even?](JavaScript/oddOrEven.js)
 - [Ones and Zeros](JavaScript/binaryArrayToNumber.js)
