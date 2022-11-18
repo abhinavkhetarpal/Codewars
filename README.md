@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Find The Stray Number](JavaScript/stray.js)
 - [Count The Divisors Of A Number](JavaScript/getDivisorsCnt.js)
 - [Remove The Minimum](JavaScript/removeSmallest.js)
 - [The Highest Profit Wins](JavaScript/minMax2.js)
