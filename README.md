@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Factorial](JavaScript/factorial.js)
 - [Anagram Detection](JavaScript/isAnagram.js)
 - [Testing 1-2-3](JavaScript/number.js)
 - [Find The Stray Number](JavaScript/stray.js)
