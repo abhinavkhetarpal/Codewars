@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Remove Anchor From URL](JavaScript/removeUrlAnchor.js)
 - [Sum Of A Sequence](JavaScript/sequenceSum.js)
 - [Factorial](JavaScript/factorial.js)
 - [Anagram Detection](JavaScript/isAnagram.js)
