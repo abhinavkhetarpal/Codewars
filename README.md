@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Find The Capitals](JavaScript/capitals.js)
 - [Sort Array By String Length](JavaScript/sortByLength.js)
 - [Remove Anchor From URL](JavaScript/removeUrlAnchor.js)
 - [Sum Of A Sequence](JavaScript/sequenceSum.js)
