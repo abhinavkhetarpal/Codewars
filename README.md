@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [The Coupon Code](JavaScript/checkCoupon.js)
 - [Small Enough](JavaScript/smallEnough.js)
 - [Find The Capitals](JavaScript/capitals.js)
 - [Sort Array By String Length](JavaScript/sortByLength.js)
