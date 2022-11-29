@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Are The Numbers In Order](JavaScript/inAscOrder.js)
 - [No Oddities Here](JavaScript/noOdds.js)
 - [The Coupon Code](JavaScript/checkCoupon.js)
 - [Small Enough](JavaScript/smallEnough.js)
