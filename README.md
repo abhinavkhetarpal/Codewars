@@ -9,6 +9,8 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Is A Number Prime?](JavaScript/isPrime.js)
+- [Find The Middle Element](JavaScript/gimme.js)
 - [Are The Numbers In Order](JavaScript/inAscOrder.js)
 - [No Oddities Here](JavaScript/noOdds.js)
 - [The Coupon Code](JavaScript/checkCoupon.js)
@@ -124,7 +126,6 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Will There Be Enough Space?](JavaScript/enough.js)
 - [Squaring An Argument](JavaScript/square.js)
 - [Keep Up The Hoop](JavaScript/hoopCount.js)
-- [Is This Number A Prime?](JavaScript/isPrime.js)
 - [Can We Divide It?](JavaScript/isDivideBy.js)
 - [Student's Final Grade](JavaScript/finalGrade.js)
 - [Sum Without Highest And Lowest Number](JavaScript/sumArray.js)
