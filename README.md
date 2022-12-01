@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Sum Of Angles](JavaScript/angle.js)
 - [Is A Number Prime?](JavaScript/isPrime.js)
 - [Find The Middle Element](JavaScript/gimme.js)
 - [Are The Numbers In Order](JavaScript/inAscOrder.js)
