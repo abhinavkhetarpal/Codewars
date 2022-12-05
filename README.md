@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Don't Give Me Five!](JavaScript/dontGiveMeFive.js)
 - [Get The Mean Of An Array](JavaScript/getAverage.js)
 - [Deodorant Evaporator](JavaScript/evaporator.js)
 - [Round Up To The Next Multiple Of Five](JavaScript/roundToNext5.js)
