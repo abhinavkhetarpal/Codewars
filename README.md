@@ -9,7 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
-
+- [Tail And Head](JavaScript/tailAndHead.js)
 - [Create Phone Number](JavaScript/createPhoneNumber.js)
 - [Two Oldest Ages](JavaScript/twoOldestAges.js)
 - [Total Amount Of Points](JavaScript/points.js)
