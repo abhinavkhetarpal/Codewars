@@ -12,6 +12,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 - [Create Phone Number](JavaScript/createPhoneNumber.js)
 - [Two Oldest Ages](JavaScript/twoOldestAges.js)
+- [Total Amount Of Points](JavaScript/points.js)
 - [Don't Give Me Five!](JavaScript/dontGiveMeFive.js)
 - [Deodorant Evaporator](JavaScript/evaporator.js)
 - [Round Up To The Next Multiple Of Five](JavaScript/roundToNext5.js)
