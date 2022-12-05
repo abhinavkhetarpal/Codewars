@@ -9,9 +9,10 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+
 - [Create Phone Number](JavaScript/createPhoneNumber.js)
+- [Two Oldest Ages](JavaScript/twoOldestAges.js)
 - [Don't Give Me Five!](JavaScript/dontGiveMeFive.js)
-- [Get The Mean Of An Array](JavaScript/getAverage.js)
 - [Deodorant Evaporator](JavaScript/evaporator.js)
 - [Round Up To The Next Multiple Of Five](JavaScript/roundToNext5.js)
 - [Sum Of Angles](JavaScript/angle.js)
@@ -202,3 +203,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Money, Money, Money](JavaScript/calculateYears.js)
 - [DNA to RNA Conversion](JavaScript/DNAtoRNA.js)
 - [Summing A Number's Digits](JavaScript/sumDigits.js)
+- [Get The Mean Of An Array](JavaScript/getAverage.js)
