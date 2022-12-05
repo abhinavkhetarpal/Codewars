@@ -27,17 +27,17 @@ tailAndHead([35456,782,569,2454,875]) should return 12012
 */
 
 function tailAndHead(arr){
-    let numArray2D = arr.map(x => String(x).split("").map(x => Number(x)))
-    return numArray2D.reduce((a,b,i,arr) => i == arr.length - 1 ? a.concat() : a.concat(b[b.length-1] + arr[i+1][0]),[]).
-    reduce((a,b) => a*b)
-  }
+  let twoDimArr = arr.map(x => String(x).split("").map(x => Number(x)))
+  let arrayOfSums = twoDimArr.reduce((a,b,i,arr) => i == arr.length -1 ? a : a.concat(b[b.length-1] + arr[i+1][0]),[])
+  return arrayOfSums.reduce((a,b) => a*b)
+}
 
 // Solution with comments
 
 function tailAndHead(arr){
-    let numArray2D = arr.map(x => String(x).split("").map(x => Number(x))) // [111,2345,66,78,900] -> [['1','1','1'],['2','3','4','5'],['6','6'],['7','8'],['9','0',0']] -> [[1,1,1],[2,3,4,5],[6,6,],[7,8],[9,0,0]]
+    let twoDimArr = arr.map(x => String(x).split("").map(x => Number(x))) // [111,2345,66,78,900] -> [['1','1','1'],['2','3','4','5'],['6','6'],['7','8'],['9','0',0']] -> [[1,1,1],[2,3,4,5],[6,6,],[7,8],[9,0,0]]
     
-    return numArray2D.reduce((a,b,i,arr) => i == arr.length - 1 ? a.concat() : a.concat(b[b.length-1] + arr[i+1][0]),[]). // add tail of first element to head of next element until you reach the last element of the array (i == arr.length -1), after which we need to stop as 'i' will be undefined in the next iteration
+    let arrayOfSums = twoDimArr.reduce((a,b,i,arr) => i == arr.length - 1 ? a.concat() : a.concat(b[b.length-1] + arr[i+1][0]),[]) // add tail of first element to head of next element until you reach the last element of the array (i == arr.length -1), after which we need to stop as 'i' will be undefined in the next iteration
 
-    reduce((a,b) => a*b) // calculate the product of the array we generated 
+    return arrayOfSums.reduce((a,b) => a*b) // calculate the product of the array we generated 
   }
