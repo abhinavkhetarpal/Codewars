@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Create Phone Number](JavaScript/createPhoneNumber.js)
 - [Don't Give Me Five!](JavaScript/dontGiveMeFive.js)
 - [Get The Mean Of An Array](JavaScript/getAverage.js)
 - [Deodorant Evaporator](JavaScript/evaporator.js)
