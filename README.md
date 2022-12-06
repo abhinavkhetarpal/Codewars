@@ -211,3 +211,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [The Feast Of Many Beasts](JavaScript/feast.js)
 - [Credit Card Mask](JavaScript/maskify.js)
 - [Alternate Capitalization](JavaScript/capitalize.js)
+- [Is The String UpperCase?](JavaScript/isUpperCase.js)
