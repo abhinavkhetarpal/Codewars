@@ -208,3 +208,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Get The Mean Of An Array](JavaScript/getAverage.js)
 - [Do I Get A Bonus?](JavaScript/bonusTime.js)
 - [The Feast Of Many Beasts](JavaScript/feast.js)
+- [Credit Card Mask](JavaScript/maskify.js)
