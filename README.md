@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Who Likes It?](JavaScript/likes.js)
 - [Two Fighters, One Winner](JavaScript/declareWinner.js)
 - [Tail And Head](JavaScript/tailAndHead.js)
 - [Create Phone Number](JavaScript/createPhoneNumber.js)
@@ -209,4 +210,3 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Do I Get A Bonus?](JavaScript/bonusTime.js)
 - [The Feast Of Many Beasts](JavaScript/feast.js)
 - [Credit Card Mask](JavaScript/maskify.js)
-- [Who Likes It?](JavaScript/likes.js)
