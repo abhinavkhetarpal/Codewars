@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Find The First Non-Consecutive Number](JavaScript/firstNonConsecutive.js)
 - [Who Likes It?](JavaScript/likes.js)
 - [Two Fighters, One Winner](JavaScript/declareWinner.js)
 - [Tail And Head](JavaScript/tailAndHead.js)
