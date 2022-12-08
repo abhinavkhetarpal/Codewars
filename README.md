@@ -213,3 +213,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Credit Card Mask](JavaScript/maskify.js)
 - [Alternate Capitalization](JavaScript/capitalize.js)
 - [Is The String UpperCase?](JavaScript/isUpperCase.js)
+- [Check For Factor](JavaScript/checkForFactor.js)
