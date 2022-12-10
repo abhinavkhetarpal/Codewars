@@ -214,3 +214,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Alternate Capitalization](JavaScript/capitalize.js)
 - [Is The String UpperCase?](JavaScript/isUpperCase.js)
 - [Check For Factor](JavaScript/checkForFactor.js)
+- [Reverse Letter](JavaScript/reverseLetter.js)
