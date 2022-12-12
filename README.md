@@ -216,3 +216,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Check For Factor](JavaScript/checkForFactor.js)
 - [Reverse Letter](JavaScript/reverseLetter.js)
 - [Expressions Matter](JavaScript/expressionMatter.js)
+- [Powers Of 2](JavaScript/powersOfTwo.js)
