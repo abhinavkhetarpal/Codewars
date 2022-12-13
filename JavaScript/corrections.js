@@ -14,3 +14,6 @@ The test cases contain numbers only by mistake.
 
 */
 
+function correct(string){
+	return string.split("").map(x => x == "5" ? "S" : x =="0" ? "O" : x == "1" ? "I" : x).join("")
+}
