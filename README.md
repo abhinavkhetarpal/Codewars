@@ -218,3 +218,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Expressions Matter](JavaScript/expressionMatter.js)
 - [Powers Of 2](JavaScript/powersOfTwo.js)
 - [What Is Between?](JavaScript/between.js)
+- [Correct The Mistakes Of Character Recognition Software](JavaScript/corrections.js)
