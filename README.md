@@ -219,3 +219,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Powers Of 2](JavaScript/powersOfTwo.js)
 - [What Is Between?](JavaScript/between.js)
 - [Correct The Mistakes Of Character Recognition Software](JavaScript/corrections.js)
+- [I love you, a little, a lot, passionately ... not at all](JavaScript/howMuchILoveYou.js)
