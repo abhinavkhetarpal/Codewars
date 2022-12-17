@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Fizz Buzz](JavaScript/fizzbuzz.js)
 - [Sort And Star](JavaScript/twoSort.js)
 - [Find The First Non-Consecutive Number](JavaScript/firstNonConsecutive.js)
 - [Who Likes It?](JavaScript/likes.js)
