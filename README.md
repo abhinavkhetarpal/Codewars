@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Find The Odd Int](JavaScript/findOdd.js)
 - [Check The Exam](JavaScript/checkExam.js)
 - [Fizz Buzz](JavaScript/fizzbuzz.js)
 - [Sort And Star](JavaScript/twoSort.js)
