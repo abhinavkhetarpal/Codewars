@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Are They The "Same"?](JavaScript/comp.js)
 - [Persistent Bugger](JavaScript/persistence.js)
 - [Counting Duplicates](JavaScript/duplicateCount.js)
 - [Array.diff](JavaScript/array_diff.js)
