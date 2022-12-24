@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [Consecutive Strings](JavaScript/longestConsec.js)
 - [Are They The "Same"?](JavaScript/comp.js)
 - [Persistent Bugger](JavaScript/persistence.js)
 - [Counting Duplicates](JavaScript/duplicateCount.js)
