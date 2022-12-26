@@ -230,3 +230,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Correct The Mistakes Of Character Recognition Software](JavaScript/corrections.js)
 - [I love you, a little, a lot, passionately ... not at all](JavaScript/howMuchILoveYou.js)
 - [JavaScript Array Filter](JavaScript/getEvenNumbers.js)
+- [Form The Minimum](JavaScript/minValue.js)
