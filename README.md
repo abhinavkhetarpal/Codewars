@@ -232,3 +232,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [JavaScript Array Filter](JavaScript/getEvenNumbers.js)
 - [Form The Minimum](JavaScript/minValue.js)
 - [Predict Your Age!](JavaScript/predictAge.js)
+- [Factorial 2](JavaScript/factorial2.js)
