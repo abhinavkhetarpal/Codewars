@@ -234,3 +234,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Predict Your Age!](JavaScript/predictAge.js)
 - [Factorial 2](JavaScript/factorial2.js)
 - [Find The Vowels](JavaScript/vowelIndices.js)
+- [Love Vs Friendship](JavaScript/wordsToMarks.js)
