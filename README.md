@@ -236,3 +236,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Find The Vowels](JavaScript/vowelIndices.js)
 - [Love Vs Friendship](JavaScript/wordsToMarks.js)
 - [Largest Pair Sum In Array](JavaScript/largestPairSum.js)
+- [Simple Bead Count](JavaScript/countRedBeads.js)
