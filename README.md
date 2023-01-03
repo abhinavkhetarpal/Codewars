@@ -238,3 +238,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Largest Pair Sum In Array](JavaScript/largestPairSum.js)
 - [Simple Bead Count](JavaScript/countRedBeads.js)
 - [Sum Of Cubes](JavaScript/sumCubes.js)
+- [Basic Sequence Practice](JavaScript/sumOfN.js)
