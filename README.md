@@ -239,3 +239,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Simple Bead Count](JavaScript/countRedBeads.js)
 - [Sum Of Cubes](JavaScript/sumCubes.js)
 - [Basic Sequence Practice](JavaScript/sumOfN.js)
+- [V A P O R C O D E](JavaScript/vaporcode.js)
