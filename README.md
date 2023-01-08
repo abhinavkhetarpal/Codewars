@@ -241,4 +241,5 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Basic Sequence Practice](JavaScript/sumOfN.js)
 - [V A P O R C O D E](JavaScript/vaporcode.js)
 - [Alternate Case](JavaScript/alternateCase.js)
+- [Kata Example Twist](JavaScript/websites.js)
 - [Ordered Count Of Characters](JavaScript/orderedCount.js)
