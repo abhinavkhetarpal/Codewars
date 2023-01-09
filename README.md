@@ -243,3 +243,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Alternate Case](JavaScript/alternateCase.js)
 - [Kata Example Twist](JavaScript/websites.js)
 - [Ordered Count Of Characters](JavaScript/orderedCount.js)
+- [Sum Of All Arguments](JavaScript/sum.js)
