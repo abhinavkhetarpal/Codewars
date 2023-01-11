@@ -9,6 +9,7 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 
 ### JavaScript:
 
+- [A Rule Of Divisibility By 7](JavaScript/seven.js)
 - [Consecutive Strings](JavaScript/longestConsec.js)
 - [Are They The "Same"?](JavaScript/comp.js)
 - [Persistent Bugger](JavaScript/persistence.js)
