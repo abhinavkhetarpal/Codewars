@@ -246,3 +246,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Ordered Count Of Characters](JavaScript/orderedCount.js)
 - [Sum Of All Arguments](JavaScript/sum.js)
 - [Vowel Remover](JavaScript/shortcut.js)
+- [Well Of Ideas](JavaScript/well.js)
