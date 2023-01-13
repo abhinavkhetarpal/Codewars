@@ -247,3 +247,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sum Of All Arguments](JavaScript/sum.js)
 - [Vowel Remover](JavaScript/shortcut.js)
 - [Well Of Ideas](JavaScript/well.js)
+- [Name Shuffler](JavaScript/nameShuffler.js)
