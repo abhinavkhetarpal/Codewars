@@ -249,3 +249,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Well Of Ideas](JavaScript/well.js)
 - [Name Shuffler](JavaScript/nameShuffler.js)
 - [Convert To Binary](JavaScript/toBinary.js)
+- [Holiday VIII - Duty Free](JavaScript/dutyFree.js)
