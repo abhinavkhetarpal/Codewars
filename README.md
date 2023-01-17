@@ -251,3 +251,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Convert To Binary](JavaScript/toBinary.js)
 - [Holiday VIII - Duty Free](JavaScript/dutyFree.js)
 - [Going To The Cinema](JavaScript/movie.js)
+- [Find The Nth Digit Of A Number](JavaScript/findDigit.js)
