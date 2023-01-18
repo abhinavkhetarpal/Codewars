@@ -252,3 +252,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Holiday VIII - Duty Free](JavaScript/dutyFree.js)
 - [Going To The Cinema](JavaScript/movie.js)
 - [Find The Nth Digit Of A Number](JavaScript/findDigit.js)
+- [Most Frequently Used Words In A Text](JavaScript/topThreeWords.js)
