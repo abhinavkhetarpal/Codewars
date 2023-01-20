@@ -253,3 +253,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Going To The Cinema](JavaScript/movie.js)
 - [Find The Nth Digit Of A Number](JavaScript/findDigit.js)
 - [Most Frequently Used Words In A Text](JavaScript/topThreeWords.js)
+- [Number Of Decimal Digits](JavaScript/digits.js)
