@@ -255,3 +255,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Most Frequently Used Words In A Text](JavaScript/topThreeWords.js)
 - [Number Of Decimal Digits](JavaScript/digits.js)
 - [Flatten And Sort An Array](JavaScript/flattenAndSort.js)
+- [Row Weights](JavaScript/rowWeights.js)
