@@ -256,3 +256,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Number Of Decimal Digits](JavaScript/digits.js)
 - [Flatten And Sort An Array](JavaScript/flattenAndSort.js)
 - [Row Weights](JavaScript/rowWeights.js)
+- [Power Of Two](JavaScript/powersOfTwo.js)
