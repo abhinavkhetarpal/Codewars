@@ -257,3 +257,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Flatten And Sort An Array](JavaScript/flattenAndSort.js)
 - [Row Weights](JavaScript/rowWeights.js)
 - [Power Of Two](JavaScript/powersOfTwo.js)
+- [Sum Of Minimums](JavaScript/sumOfMinimums.js)
