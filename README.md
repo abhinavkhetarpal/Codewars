@@ -258,3 +258,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Row Weights](JavaScript/rowWeights.js)
 - [Power Of Two](JavaScript/powersOfTwo.js)
 - [Sum Of Minimums](JavaScript/sumOfMinimums.js)
+- [Sorted? Yes? No? How?](JavaScript/isSortedAndHow.js)
