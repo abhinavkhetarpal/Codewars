@@ -260,3 +260,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sum Of Minimums](JavaScript/sumOfMinimums.js)
 - [Sorted? Yes? No? How?](JavaScript/isSortedAndHow.js)
 - [Greet Me](JavaScript/greet2.js)
+- [Sort The Gift Code](JavaScript/sortGiftCode.js)
