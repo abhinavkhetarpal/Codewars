@@ -261,3 +261,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sorted? Yes? No? How?](JavaScript/isSortedAndHow.js)
 - [Greet Me](JavaScript/greet2.js)
 - [Sort The Gift Code](JavaScript/sortGiftCode.js)
+- [Greatest Common Divisor](JavaScript/mygcd.js)
