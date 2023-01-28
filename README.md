@@ -262,3 +262,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Greet Me](JavaScript/greet2.js)
 - [Sort The Gift Code](JavaScript/sortGiftCode.js)
 - [Greatest Common Divisor](JavaScript/mygcd.js)
+- [Bumps In The Road](JavaScript/bump.js)
