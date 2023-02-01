@@ -265,3 +265,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Bumps In The Road](JavaScript/bump.js)
 - [Sort Arrays - 1](JavaScript/sortme.js)
 - [Sum Of Triangular Numbers](JavaScript/sumTriangularNumbers.js)
+- [Build A Square](JavaScript/generateShape.js)
