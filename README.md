@@ -266,3 +266,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Sort Arrays - 1](JavaScript/sortme.js)
 - [Sum Of Triangular Numbers](JavaScript/sumTriangularNumbers.js)
 - [Build A Square](JavaScript/generateShape.js)
+- [Head, Tail, Init, And Last](JavaScript/headTailInitAndLast.js)
