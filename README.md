@@ -269,3 +269,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Head, Tail, Init, And Last](JavaScript/headTailInitAndLast.js)
 - [Training JS #1](JavaScript/helloWorld.js)
 - [Training JS #7](JavaScript/saleHotdogs.js)
+- [A Wolf In Sheep's Clothing](JavaScript/warnTheSheep.js)
