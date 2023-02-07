@@ -268,3 +268,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Build A Square](JavaScript/generateShape.js)
 - [Head, Tail, Init, And Last](JavaScript/headTailInitAndLast.js)
 - [Training JS #1](JavaScript/helloWorld.js)
+- [Training JS #7](JavaScript/saleHotdogs.js)
