@@ -271,3 +271,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Training JS #7](JavaScript/saleHotdogs.js)
 - [A Wolf In Sheep's Clothing](JavaScript/warnTheSheep.js)
 - [Exclusive "or" (xor) Logical Operator](JavaScript/xor.js)
+- [The Wide Mouthed Frog](JavaScript/mouthSize.js)
