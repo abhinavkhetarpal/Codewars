@@ -273,3 +273,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Exclusive "or" (xor) Logical Operator](JavaScript/xor.js)
 - [The Wide Mouthed Frog](JavaScript/mouthSize.js)
 - [The 'if' Function](JavaScript/_if.js)
+- [Lario and Muigi Pipe Problem](JavaScript/pipeFix.js)
