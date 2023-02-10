@@ -38,3 +38,13 @@ Pseudocode #2:
 function pipeFix(n){
     return Array(n[n.length-1]-n[0]+1).fill(n[0]).map((x,i) => x + i)
   }
+
+// Alternative Solution
+
+function pipeFix(n){
+  let first = n[0], last = n[n.length-1], arr = []
+  for (let i = first; i <= last; i++){
+    arr.push(i)
+  }
+  return arr
+}
