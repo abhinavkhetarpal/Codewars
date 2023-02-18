@@ -274,3 +274,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [The Wide Mouthed Frog](JavaScript/mouthSize.js)
 - [The 'if' Function](JavaScript/_if.js)
 - [Lario and Muigi Pipe Problem](JavaScript/pipeFix.js)
+- [5 Without Numbers](JavaScript/unusualFive.js)
