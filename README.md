@@ -276,3 +276,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Lario and Muigi Pipe Problem](JavaScript/pipeFix.js)
 - [5 Without Numbers](JavaScript/unusualFive.js)
 - [Bin To Decimal](JavaScript/binToDec.js)
+- [Find The Remainder](JavaScript/remainder.js)
