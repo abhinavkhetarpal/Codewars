@@ -281,3 +281,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [101 Dalmatians](JavaScript/howManyDalmatians.js)
 - [Training JS #2](JavaScript/equal.js)
 - [Surface Area And Volume Of A Box](JavaScript/getSize.js)
+- [Add Length](JavaScript/addLength.js)
