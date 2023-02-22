@@ -280,3 +280,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Alan Partridge II](JavaScript/apple.js)
 - [101 Dalmatians](JavaScript/howManyDalmatians.js)
 - [Training JS #2](JavaScript/equal.js)
+- [Surface Area And Volume Of A Box](JavaScript/getSize.js)
