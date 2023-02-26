@@ -278,3 +278,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Bin To Decimal](JavaScript/binToDec.js)
 - [Find The Remainder](JavaScript/remainder.js)
 - [Alan Partridge II](JavaScript/apple.js)
+- [101 Dalmatians](JavaScript/howManyDalmatians.js)
