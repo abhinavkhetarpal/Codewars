@@ -277,3 +277,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [5 Without Numbers](JavaScript/unusualFive.js)
 - [Bin To Decimal](JavaScript/binToDec.js)
 - [Find The Remainder](JavaScript/remainder.js)
+- [Alan Partridge II](JavaScript/apple.js)
