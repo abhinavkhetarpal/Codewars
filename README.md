@@ -285,3 +285,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Swap Values](JavaScript/swapValues.js)
 - [Welcome To The City](JavaScript/sayHello2.js)
 - [L1: Bartender, Drinks!](JavaScript/getDrinkByProfession.js)
+- [Area Of A Square](JavaScript/squareArea.js)
