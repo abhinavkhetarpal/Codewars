@@ -284,3 +284,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Add Length](JavaScript/addLength.js)
 - [Swap Values](JavaScript/swapValues.js)
 - [Welcome To The City](JavaScript/sayHello2.js)
+- [L1: Bartender, Drinks!](JavaScript/getDrinkByProfession.js)
