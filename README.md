@@ -283,3 +283,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Surface Area And Volume Of A Box](JavaScript/getSize.js)
 - [Add Length](JavaScript/addLength.js)
 - [Swap Values](JavaScript/swapValues.js)
+- [Welcome To The City](JavaScript/sayHello2.js)
