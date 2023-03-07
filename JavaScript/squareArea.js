@@ -13,3 +13,4 @@ function squareArea(A){
     let radius = circum / (2 * Math.PI)
     let area = Math.pow(radius,2)
     return Math.round(area * 100) / 100
+}
