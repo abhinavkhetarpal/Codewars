@@ -286,3 +286,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Welcome To The City](JavaScript/sayHello2.js)
 - [L1: Bartender, Drinks!](JavaScript/getDrinkByProfession.js)
 - [Area Of A Square](JavaScript/squareArea.js)
+- [Remove First And Last Character Part Two](JavaScript/array.js)
