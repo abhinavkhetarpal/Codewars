@@ -287,3 +287,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [L1: Bartender, Drinks!](JavaScript/getDrinkByProfession.js)
 - [Area Of A Square](JavaScript/squareArea.js)
 - [Remove First And Last Character Part Two](JavaScript/array.js)
+- [Multiple Of Index](JavaScript/multipleOfIndex.js)
