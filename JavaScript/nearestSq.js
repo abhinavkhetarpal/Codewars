@@ -23,3 +23,6 @@ function nearestSq(n){
     else return Math.round(Math.sqrt(n))**2
 }
 
+// Refactored
+
+const nearestSq = n => Math.pow(Math.round(Math.sqrt(n)),2)
