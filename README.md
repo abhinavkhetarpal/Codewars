@@ -289,3 +289,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Remove First And Last Character Part Two](JavaScript/array.js)
 - [Multiple Of Index](JavaScript/multipleOfIndex.js)
 - [Find Nearest Square Number](JavaScript/nearestSq.js)
+- [Price Of Mangoes](JavaScript/mango.js)
