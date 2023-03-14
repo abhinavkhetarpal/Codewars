@@ -290,3 +290,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Multiple Of Index](JavaScript/multipleOfIndex.js)
 - [Find Nearest Square Number](JavaScript/nearestSq.js)
 - [Price Of Mangoes](JavaScript/mango.js)
+- [How Many Stairs Will Suzuki Climb In 20 Years?](JavaScript/stairsIn20.js)
