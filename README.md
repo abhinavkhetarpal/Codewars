@@ -293,3 +293,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [How Many Stairs Will Suzuki Climb In 20 Years?](JavaScript/stairsIn20.js)
 - [Holiday VI - Shark Pontoon](JavaScript/shark.js)
 - [Pillars](JavaScript/pillars.js)
+- [Color Ghost](JavaScript/Ghost.js)
