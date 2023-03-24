@@ -54,7 +54,6 @@ function nextId(ids){
         if (!used.has(i)) return i
     }
 }
-
 // Alternative Solution
 
 function nextId(ids){
