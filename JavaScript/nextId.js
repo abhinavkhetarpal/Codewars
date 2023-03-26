@@ -45,3 +45,12 @@ function nextId(ids){
     while (ids.includes(x)) x++
     return x
 }
+
+// Alternative Solution
+
+function nextId(ids){
+    let used = new Set(ids)
+    for (let i = 0; i <= ids.length; i++){
+        if (!used.has(i)) return i
+    }
+}
