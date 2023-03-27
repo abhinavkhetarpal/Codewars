@@ -294,3 +294,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Holiday VI - Shark Pontoon](JavaScript/shark.js)
 - [Pillars](JavaScript/pillars.js)
 - [Color Ghost](JavaScript/Ghost.js)
+- [Smallest Unused Id](JavaScript/nextId.js)
