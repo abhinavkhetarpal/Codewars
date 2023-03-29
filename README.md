@@ -295,3 +295,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Pillars](JavaScript/pillars.js)
 - [Color Ghost](JavaScript/Ghost.js)
 - [Smallest Unused Id](JavaScript/nextId.js)
+- [Basic Subclasses - Adam And Eve](JavaScript/God.js)
