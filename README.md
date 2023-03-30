@@ -296,4 +296,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Color Ghost](JavaScript/Ghost.js)
 - [Smallest Unused Id](JavaScript/nextId.js)
 - [Basic Subclasses - Adam And Eve](JavaScript/God.js)
-- [Exclamation Mark Series #2](JavaScript/remove3.js
+- [Exclamation Mark Series #2](JavaScript/remove3.js)
