@@ -28,3 +28,10 @@ function remove (string) {
     }
     return string
 }
+
+function remove(s){
+    for (var i = 0; s.endsWith("!"); i++) {
+        s = s.slice(0 , -1) 
+    }	
+    return s
+  }
