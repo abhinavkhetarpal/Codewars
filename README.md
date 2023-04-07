@@ -299,3 +299,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Exclamation Mark Series #2](JavaScript/remove3.js)
 - [Training JS#8: Conditional Statement--Switch](JavaScript/howManydays.js)
 - [No Loops 2](JavaScript/check2.js)
+- [Training JS #6](JavaScript/trueOrFalse.js)
