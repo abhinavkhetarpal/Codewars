@@ -300,3 +300,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Training JS#8: Conditional Statement--Switch](JavaScript/howManydays.js)
 - [No Loops 2](JavaScript/check2.js)
 - [Training JS #6](JavaScript/trueOrFalse.js)
+- [Name On Billboard](JavaScript/billboard.js)
