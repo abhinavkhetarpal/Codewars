@@ -302,3 +302,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Training JS #6](JavaScript/trueOrFalse.js)
 - [Name On Billboard](JavaScript/billboard.js)
 - [Classic Hello World](JavaScript/Solution3.js)
+- [Is It A Number?](JavaScript/isDigit.js)
