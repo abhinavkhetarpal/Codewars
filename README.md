@@ -303,3 +303,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Name On Billboard](JavaScript/billboard.js)
 - [Classic Hello World](JavaScript/Solution3.js)
 - [Is It A Number?](JavaScript/isDigit.js)
+- [Compare With Margin](JavaScript/closeCompare.js)
