@@ -305,3 +305,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Is It A Number?](JavaScript/isDigit.js)
 - [Compare With Margin](JavaScript/closeCompare.js)
 - [Training JS#10](JavaScript/pickIt.js)
+- [Fix Your Code Before The Garden Dies!](JavaScript/rainAmount.js)
