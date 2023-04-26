@@ -308,3 +308,4 @@ Every day, I complete a coding challenge to grow my skillset. This repository ho
 - [Fix Your Code Before The Garden Dies!](JavaScript/rainAmount.js)
 - [Classy Classes](JavaScript/Person.js)
 - [Remove The Time](JavaScript/shortenToDate.js)
+- [Geometry Basics: Distance between points in 2D](JavaScript/distanceBetweenTwoPoints.js)
